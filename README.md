@@ -11,4 +11,6 @@ https://www.devmedia.com.br/servicos-restful-verbos-http/37103
 
 Sites para dev codar
 
+https://www.beecrowd.com.br/judge/en/login?redirect=%2Fen
+
 https://dev.to/why_and_how/top-3-sites-for-programmers-4bmc#https://www.topcoder.com/challenges/?pageIndex=1
