@@ -5,10 +5,6 @@ Site para sixtaxe
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-Site para serviços de api test
-
-https://www.devmedia.com.br/servicos-restful-verbos-http/37103
-
 Sites para dev codar
 
 https://www.beecrowd.com.br/judge/en/login?redirect=%2Fen
